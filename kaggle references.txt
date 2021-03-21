@@ -1,0 +1,15 @@
+EDA: 
+	https://www.kaggle.com/ihelon/cassava-leaf-disease-exploratory-data-analysis
+	https://www.kaggle.com/debasish05/eda-using-computer-vision-tools-and-albumentations
+	https://www.kaggle.com/hondykuma/cassava-leaf-disease-exploratory-data-analysis
+	https://www.kaggle.com/stenzr/beginner-eda
+	https://www.kaggle.com/tanlikesmath/cassava-classification-eda-fastai-plc
+	https://www.kaggle.com/akhilkasare/cassava-leaf-disease-eda-prediction
+	https://www.kaggle.com/hamzaboulahia/cassava-leaf-disease-eda
+	https://www.kaggle.com/pranavraikokte/eda-basic-image-augmentations
+	
+
+DATA PROCESSING AND AUGMENTATIONS:
+	https://www.kaggle.com/rajeev064/cnn-for-cassava-leaf-using-efficientnet	
+	https://www.kaggle.com/danurahul/data-cleaning-model-training-inference-using-tez
+	
